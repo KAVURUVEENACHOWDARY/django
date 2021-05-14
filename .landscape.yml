@@ -1,0 +1,6 @@
+doc-warnings: false
+uses:
+  - django
+strictness: veryhigh
+pep8:
+  full: true
